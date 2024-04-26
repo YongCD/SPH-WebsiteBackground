@@ -150,7 +150,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
   .el-row .el-col-5 {
     font-size: 18px;
     text-align: right;
@@ -165,10 +165,4 @@ export default {
     margin-right: 5px;
   }
 
-  .el-carousel__button {
-    width: 10px;
-    height: 10px;
-    background-color: red;
-    border-radius: 50%;
-  }
 </style>

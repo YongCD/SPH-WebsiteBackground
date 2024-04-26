@@ -47,3 +47,14 @@
 .el-range-separator {
   box-sizing: content-box;
 }
+
+.el-radio-button__inner, .el-radio-group {
+  display: inline;
+}
+
+.el-carousel__button {
+  width: 10px;
+  height: 10px;
+  background-color: red;
+  border-radius: 50%;
+}
